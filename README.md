@@ -55,6 +55,8 @@ model.fit(img_train, y_train, epochs = 10, verbose = 2)
 | Average model| 82.03%  | 26.12%    | 64.02%         | 78.10%         |
 | ANN          | 98.52%  | 34.65%    | 88.02%         | 97.38%         |
 
-
+<p align="left">
+  <img src="../master/image.png" width="300"/>
+</p>
 
 [Sorry for my bad English :'(]
